@@ -1,0 +1,8 @@
+.SI {
+    color:rgb(255, 139, 255);
+    font-weight: 450;
+    background-color: rgb(25, 55, 24);
+    font-family: "Soehne", system-ui, -apple-system, Helvetica Neue, Arial, sans-serif;
+    padding: 5px 5px 5px 5px;
+    font-size: 3.4375rem;
+}
